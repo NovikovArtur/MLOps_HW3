@@ -1,0 +1,7 @@
+.git
+__pycache__/
+*.pyc
+.DS_Store
+fraud_detector/teta-ml-1-2025/
+fraud_detector/models/
+fraud_detector/reports/

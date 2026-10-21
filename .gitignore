@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+fraud_detector/teta-ml-1-2025/*.csv
+fraud_detector/reports/*
+!fraud_detector/reports/.gitkeep
